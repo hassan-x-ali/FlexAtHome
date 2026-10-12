@@ -1,0 +1,28 @@
+{
+  "name": "FlexAt Home",
+  "short_name": "FlexAt",
+  "description": "Equipment-free workouts, anywhere. Bodyweight training, structured plans, and progress tracking that work offline.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F0F12",
+  "theme_color": "#0F0F12",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "fitness", "lifestyle"],
+  "lang": "en-US",
+  "scope": "/",
+  "prefer_related_applications": false
+}
